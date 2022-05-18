@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "eYwXQuOTYGHFJqAQDV5uJuifW9KOVjMldEeLe4RL4uGYKdAngF9DAdW6IBZ676Z9Ju5pe8mJ8XNON26MhJnmhw==",
+  "success": true,
+  "projectFilePath": "/Users/baxram/RiderProjects/ExamProject/ExamProject/ExamProject.csproj",
+  "expectedPackageFiles": [
+    "/Users/baxram/.nuget/packages/documentformat.openxml/2.16.0/documentformat.openxml.2.16.0.nupkg.sha512",
+    "/Users/baxram/.nuget/packages/fastmember.signed/1.5.0/fastmember.signed.1.5.0.nupkg.sha512",
+    "/Users/baxram/.nuget/packages/system.io.packaging/4.7.0/system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
